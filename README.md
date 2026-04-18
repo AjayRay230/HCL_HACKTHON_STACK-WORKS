@@ -23,6 +23,9 @@ Build a system where a pharmacist can:
 
 ---
 
+## System Design 
+![System Design](./system-design.jpeg)
+
 ## 🧠 Problem Approach
 
 We follow an automation-first design:
@@ -218,8 +221,6 @@ Stock restored automatically
 
 ---
 
-## System Design 
-![System Design](./system-design.jpeg)
 
 
 
