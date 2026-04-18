@@ -219,7 +219,7 @@ Stock restored automatically
 ---
 
 ## System Design 
-
+![System Design](./system-design.jpeg)
 
 
 
