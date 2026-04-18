@@ -218,6 +218,11 @@ Stock restored automatically
 
 ---
 
+## System Design 
+
+
+
+
 ## 📌 Future Improvements
 
 * WebSocket real-time updates
